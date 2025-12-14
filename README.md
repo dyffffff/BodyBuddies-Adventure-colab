@@ -99,7 +99,7 @@ os.environ["GEMINI_API_KEY"] = "YOUR_API_KEY_HERE"  # Replace with your actual k
 **CRITICAL: You MUST set up your own Ngrok token, or the application will fail!**
 
 1. Create a free account at https://ngrok.com
-2. Go to https://dashboard.ngrok.com/auth
+2. Go to [https://dashboard.ngrok.com/auth](https://dashboard.ngrok.com/get-started/setup/macos)
 3. Copy your authentication token
 4. In Google Colab, add another secret named `NGROK_AUTHTOKEN`
 5. Paste your Ngrok token as the value
