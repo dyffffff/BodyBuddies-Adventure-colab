@@ -17,8 +17,9 @@ Before you begin, make sure you have:
 
 #### Step 1: Open in Google Colab
 
-1. Open the `bodybuddies.ipynb` file in this repository
-2. Click "Open in Colab" button
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dyffffff/BodyBuddies-Adventure-colab/blob/main/bodybuddies.ipynb)
+
+**Click the badge above to open the notebook directly in Google Colab!**
 3. Ensure you're logged into your Google account
 
 #### Step 2: Enable GPU Runtime
